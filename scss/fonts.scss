@@ -1,0 +1,63 @@
+@font-face {
+	font-family: "Gilroy";
+	src: url("../fonts/Gilroy/Gilroy-Regular.eot");
+	src: local("Gilroy Regular"), local("Gilroy-Regular"),
+		url("../fonts/Gilroy/Gilroy-Regular.eot?#iefix") format("embedded-opentype"),
+		url("../fonts/Gilroy/Gilroy-Regular.woff2") format("woff2"),
+		url("../fonts/Gilroy/Gilroy-Regular.woff") format("woff"),
+		url("../fonts/Gilroy/Gilroy-Regular.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Gilroy";
+	src: url("../fonts/Gilroy/Gilroy-Light.eot");
+	src: local("Gilroy Light"), local("Gilroy-Light"),
+		url("../fonts/Gilroy/Gilroy-Light.eot?#iefix") format("embedded-opentype"),
+		url("../fonts/Gilroy/Gilroy-Light.woff2") format("woff2"),
+		url("../fonts/Gilroy/Gilroy-Light.woff") format("woff"),
+		url("../fonts/Gilroy/Gilroy-Light.ttf") format("truetype");
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Gilroy";
+	src: url("../fonts/Gilroy/Gilroy-Medium.eot");
+	src: local("Gilroy Medium"), local("Gilroy-Medium"),
+		url("../fonts/Gilroy/Gilroy-Medium.eot?#iefix") format("embedded-opentype"),
+		url("../fonts/Gilroy/Gilroy-Medium.woff2") format("woff2"),
+		url("../fonts/Gilroy/Gilroy-Medium.woff") format("woff"),
+		url("../fonts/Gilroy/Gilroy-Medium.ttf") format("truetype");
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Gilroy";
+	src: url("../fonts/Gilroy/Gilroy-Extrabold.eot");
+	src: local("Gilroy Extrabold"), local("Gilroy-Extrabold"),
+		url("../fonts/Gilroy/Gilroy-Extrabold.eot?#iefix")
+			format("embedded-opentype"),
+		url("../fonts/Gilroy/Gilroy-Extrabold.woff2") format("woff2"),
+		url("../fonts/Gilroy/Gilroy-Extrabold.woff") format("woff"),
+		url("../fonts/Gilroy/Gilroy-Extrabold.ttf") format("truetype");
+	font-weight: 800;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Gilroy";
+	src: url("../fonts/Gilroy/Gilroy-BoldItalic.eot");
+	src: local("Gilroy Bold Italic"), local("Gilroy-BoldItalic"),
+		url("../fonts/Gilroy/Gilroy-BoldItalic.eot?#iefix")
+			format("embedded-opentype"),
+		url("../fonts/Gilroy/Gilroy-BoldItalic.woff2") format("woff2"),
+		url("../fonts/Gilroy/Gilroy-BoldItalic.woff") format("woff"),
+		url("../fonts/Gilroy/Gilroy-BoldItalic.ttf") format("truetype");
+	font-weight: bold;
+	font-style: italic;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap");
